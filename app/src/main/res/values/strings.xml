@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Anastasios</string>
+    <string name="anastasios">anastasios</string>
+    <string name="professional_hair_care">PROFESSIONAL HAIR CARE</string>
+    <string name="men_women">Ανδρών - Γυναικών</string>
+    <string name="offers"><u>ΠΡΟΣΦΟΡΕΣ</u></string>
+    <string name="dates">ΙΣΧΥΟΥΝ ΜΟΝΟ ΓΙΑ ΤΙΣ ΜΕΡΕΣ:</string>
+    <string name="dates2">ΤΡΙΤΗ - ΤΕΤΑΡΤΗ - ΠΕΜΠΤΗ</string>
+    <string name="men">Ανδρικό κούρεμα \t\t\t\t6\t€</string>
+    <string name="women">Γυναικείο κούρεμα \t\t8\t€</string>
+    <string name="brush">Χτένισμα \t\t\t\t\t\t\t\t\t\t\t8\t€</string>
+    <string name="timetable">Ώρες Λετουργίας</string>
+    <string name="prices">Τιμοκατάλογος</string>
+    <string name="timetable1">ΔΕΥΤΕΡΑ ΚΛΕΙΣΤΑ\nΤρίτη - Τετάρτη\nΠέμπτη - Παρασκευή\n09:00 - 14:00 \nκαι 17:00 - 20:30\nΣάββατο: 09:00 - 14:30</string>
+    <string name="prices1">Ανδρικό\t\t\t8\t€\nΠαιδικό\t\t\t\t6\t€\nΓυναικείο\t\t10\t€\nΧτένισμα\t\t\t10\t€\nΒαφή από\t17-30\t€</string>
+    <string name="address">Αγ. Μαρίνας 12 - 14\nΤούμπα, Θεσσαλονίκη</string>
+    <string name="phone">Τ: 2310 067 866</string>
+</resources>
