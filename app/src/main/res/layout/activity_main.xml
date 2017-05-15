@@ -2,8 +2,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:fillViewport="true">
+    android:layout_height="match_parent">
 
     <LinearLayout
         android:id="@+id/activity_main"
@@ -34,6 +33,12 @@
             android:text="@string/men_women"
             android:textColor="@color/colorPrimary" />
 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/anastasios1" />
+
         <TextView
             style="@style/TextStyle"
             android:background="@color/colorDarkGray"
@@ -54,7 +59,7 @@
 
         <TextView
             style="@style/TextEighteen"
-            android:text="@string/men"/>
+            android:text="@string/men" />
 
         <TextView
             style="@style/TextEighteen"
@@ -62,7 +67,7 @@
 
         <TextView
             style="@style/TextEighteen"
-            android:text="@string/brush"/>
+            android:text="@string/brush" />
 
         <LinearLayout
             android:layout_width="match_parent"
