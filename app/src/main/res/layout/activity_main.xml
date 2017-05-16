@@ -103,7 +103,7 @@
             <TextView
                 style="@style/TextSixteen"
                 android:fontFamily="arial"
-                android:lineSpacingExtra="5sp"
+                android:lineSpacingExtra="5dp"
                 android:text="@string/prices1" />
         </LinearLayout>
 
@@ -124,7 +124,7 @@
 
             <TextView
                 style="@style/TextStyle"
-                android:layout_marginTop="5sp"
+                android:layout_marginTop="5dp"
                 android:layout_weight="1"
                 android:background="@android:color/black"
                 android:text="@string/phone"
